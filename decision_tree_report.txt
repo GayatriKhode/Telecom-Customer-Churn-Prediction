@@ -1,0 +1,15 @@
+**Decision Tree Model Report – Telecom Customer Churn Prediction**
+
+**Objective:** To build a Decision Tree classification model to predict customer churn.
+
+**Methodology:**
+1. Loaded the telecom customer churn dataset.
+2. Prepared the input features and target variable.
+3. Split the dataset into training and testing sets.
+4. Trained a Decision Tree Classifier with a maximum depth of 4.
+5. Evaluated the model using accuracy.
+6. Visualized the trained decision tree and saved it as `decision_tree.png`.
+
+**Result:** The Decision Tree model was trained successfully, and its diagram was saved in the outputs folder. The model accuracy and the first split feature are displayed in the terminal.
+
+**Conclusion:** The Decision Tree model helps identify patterns associated with customer churn. Its visual representation makes the decision-making process easier to understand.

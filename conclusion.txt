@@ -1,0 +1,3 @@
+Higher mean accuracy: Random Forest (0.7070).
+More stable model: Logistic Regression (standard deviation: 0.0146).
+A lower standard deviation means accuracy varied less across folds.
